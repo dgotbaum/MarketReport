@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Class Reformatter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Class_Reformatter_jar</output-path>
+    <root id="archive" name="Class Reformatter.jar">
+      <element id="module-output" name="Class Reformatter" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ExcelDemosWithPOI/lib/dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ExcelDemosWithPOI/lib/xmlbeans-2.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ExcelDemosWithPOI/lib/poi-ooxml-3.9-20121203.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/ExcelDemosWithPOI/lib/poi-ooxml-schemas-3.9-20121203.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/poi-3.9-20121203.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
